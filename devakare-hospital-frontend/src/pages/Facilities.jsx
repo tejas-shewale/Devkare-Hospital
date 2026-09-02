@@ -33,13 +33,13 @@ const features = [
     desc: 'Clean, comfortable, and spacious patient rooms with attached facilities, round-the-clock nursing care, and a peaceful healing environment.',
     color: 'bg-teal-50 text-teal-600',
   },
-  {
-    icon: <MdChildCare size={30} />,
-    title: 'NICU / Nursery',
-    marathi: 'नवजात शिशू विभाग',
-    desc: 'Dedicated neonatal intensive care unit with advanced monitoring and life support equipment for premature and critically ill newborns.',
-    color: 'bg-pink-50 text-pink-600',
-  },
+  // {
+  //   icon: <MdChildCare size={30} />,
+  //   title: 'NICU / Nursery',
+  //   marathi: 'नवजात शिशू विभाग',
+  //   desc: 'Dedicated neonatal intensive care unit with advanced monitoring and life support equipment for premature and critically ill newborns.',
+  //   color: 'bg-pink-50 text-pink-600',
+  // },
   {
     icon: <MdScience size={30} />,
     title: 'Diagnostic Lab',
@@ -162,8 +162,8 @@ export default function Facilities() {
           >
             {[
               { value: '2', label: 'Operation Theatres', icon: '🏥' },
-              { value: '30+', label: 'Patient Beds',     icon: '🛏️' },
-              { value: '1',  label: 'Dedicated NICU',    icon: '👶' },
+              // { value: '30+', label: 'Patient Beds',     icon: '🛏️' },
+              // { value: '1',  label: 'Dedicated NICU',    icon: '👶' },
               { value: '24/7', label: 'Emergency Care',  icon: '🚑' },
             ].map((s, i) => (
               <motion.div

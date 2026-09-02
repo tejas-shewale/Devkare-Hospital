@@ -51,7 +51,7 @@ const mvCards = [
 // ── History timeline ─────────────────────────────────────
 const timeline = [
   {
-    year: '2013',
+    year: '2014',
     title: 'Opening of Devkare Hospital',
     desc: 'Devkare Hospital was founded with a vision to provide quality gynecological and maternity care to women of Miraj and surrounding areas.',
     icon: '🏥',

@@ -62,12 +62,10 @@ const services = [
     accent: 'bg-purple-500',
     desc: 'Specialized fertility treatments including In-Vitro Fertilization (IVF) and comprehensive family planning support for couples.',
     points: [
-      'IVF & ICSI procedures',
       'Ovulation induction',
       'Semen analysis & treatment',
       'Fertility counseling',
       'Intrauterine insemination (IUI)',
-      'Egg freezing & cryopreservation',
     ],
     img: '/images/procedures/procedure4.jpeg',
   },
@@ -128,7 +126,7 @@ const services = [
   {
     id: 7,
     icon: <MdChildCare size={36} />,
-    title: 'Neonatal & NICU Care',
+    title: 'Neonatal Care',
     marathi: 'नवजात शिशू सेवा',
     color: 'bg-cyan-50 text-cyan-600 border-cyan-100',
     accent: 'bg-cyan-500',
@@ -182,10 +180,6 @@ const faqs = [
   {
     q: 'What is laparoscopic surgery and how is it different?',
     a: 'Laparoscopic surgery is a minimally invasive technique using small incisions and a tiny camera. It results in faster recovery, less pain, smaller scars, and shorter hospital stays compared to open surgery.',
-  },
-  {
-    q: 'Do you offer IVF treatment at the hospital?',
-    a: 'Yes, Devkare Hospital has an IVF center operational since 2017. We provide IVF, IUI, ICSI and other assisted reproductive techniques with personalized treatment plans.',
   },
   {
     q: 'How do I book an appointment?',

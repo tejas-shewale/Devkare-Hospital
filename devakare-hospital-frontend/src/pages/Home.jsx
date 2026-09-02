@@ -16,7 +16,7 @@ import { pageTransition, fadeInUp, fadeInLeft, fadeInRight, staggerContainer, st
 const slides = [
   {
     img:   '/images/infrastructure/hospital-front.jpeg',
-    badge: 'Miraj\'s Trusted Hospital Since 2013',
+    badge: 'Miraj\'s Trusted Hospital Since 2014',
     title: ['Compassionate &', 'Trusted Healthcare'],
     sub:   'Devkare Hospital brings expert gynecological, obstetric, and laparoscopic care with a gentle, patient-first approach.',
   },

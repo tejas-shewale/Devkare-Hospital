@@ -50,7 +50,7 @@ export default function Footer() {
             </div>
             <p className="text-sm text-white/70 leading-relaxed mb-5">
               Miraj's trusted center for gynecological, obstetric, and laparoscopic care — delivering
-              compassionate healthcare since 2013.
+              compassionate healthcare since 2014.
             </p>
             <div className="flex items-center gap-3">
               <a href="#" aria-label="Facebook"  className="w-8 h-8 rounded-lg bg-white/10 hover:bg-gold-500 flex items-center justify-center transition-colors">
