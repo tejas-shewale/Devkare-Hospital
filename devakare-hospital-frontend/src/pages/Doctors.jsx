@@ -17,7 +17,7 @@ import {
 const doctors = [
   {
     id: 1,
-    name: 'Dr. Vikas Devakare',
+    name: 'Dr. Vikas Devkare',
     nameMarathi: 'डॉ. विकास देवकारे',
     photo: '/images/infrastructure/doctorcabin.jpeg',
     role: 'Founder & Chief Surgeon',
@@ -32,7 +32,7 @@ const doctors = [
       'Endoscopic Surgery',
     ],
     experience: '15+ years',
-    desc: 'Dr. Vikas Devakare is a highly accomplished gynecologist and laparoscopic surgeon with over 15 years of clinical experience. He founded Devkare Hospital in 2013 with a vision to provide world-class women\'s healthcare to the people of Miraj and surrounding regions.',
+    desc: 'Dr. Vikas Devakare is a highly accomplished gynecologist and laparoscopic surgeon with over 15 years of clinical experience. He founded Devkare Hospital in 2014 with a vision to provide world-class women\'s healthcare to the people of Miraj and surrounding regions.',
     desc2: 'With fellowship training from Mumbai (F.M.A.S.) and an M.D. in Obstetrics & Gynecology, Dr. Devakare has performed over 1000+ laparoscopic procedures and managed thousands of successful deliveries. His compassionate approach and commitment to ethical medical practice have earned the hospital multiple recognitions.',
     achievements: [
       'Best Laparoscopy Hospital Award 2019',
@@ -52,7 +52,7 @@ const doctors = [
     photo: '/images/infrastructure/reception.jpeg',
     role: 'Consultant Gynaecologist & Obstetrician',
     roleMarathi: 'सल्लागार स्त्रीरोगतज्ज्ञ व प्रसूतितज्ज्ञ',
-    qualifications: ['M.B.B.S.', 'M.S. (Obstetrics & Gynaecology)', 'D.G.O.'],
+    qualifications: ['M.S. Ayu in Obstetrics & Gynaecology'],
     specializations: [
       'Obstetrics & Normal Deliveries',
       'Antenatal & Postnatal Care',

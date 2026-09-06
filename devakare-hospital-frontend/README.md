@@ -107,7 +107,7 @@ devakare-hospital/
 | Route | Page | Description |
 |-------|------|-------------|
 | `/` | Home | Hero slider, stats, service preview, gallery preview, CTA |
-| `/about` | About | Hospital story, mission/vision/values, timeline 2013–2025 |
+| `/about` | About | Hospital story, mission/vision/values, timeline 2014–2025 |
 | `/services` | Services | 8 specialties with detail, procedure gallery, FAQ |
 | `/doctors` | Doctors | Dr. Vikas & Dr. Swati profiles, qualifications, support team |
 | `/facilities` | Facilities | 12+ facility photos, infrastructure tour, feature grid |
